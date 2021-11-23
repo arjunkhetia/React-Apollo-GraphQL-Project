@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Apollo GraphQL Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). For more information about React Apollo Client visit: https://www.apollographql.com/docs/react
 
 ## Available Scripts
 
